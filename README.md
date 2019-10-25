@@ -1,5 +1,12 @@
 # test-vue-cytoscape-ts
 
+An reload cytoscape example, click test button to try.
+
+## update guide
+update vue-cytoscape >= `1.0.6`
+
+**NOTE** deep copy may be unnecessary
+
 ## Project setup
 ```
 yarn install
@@ -10,20 +17,9 @@ yarn install
 yarn run serve
 ```
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+### for other demo
 
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
+`change HelloWorld component in App.vue`
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
