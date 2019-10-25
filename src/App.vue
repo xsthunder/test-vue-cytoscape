@@ -7,7 +7,8 @@
 
 <script>
 // import HelloWorld from './components/HelloWorld.vue'
-import HelloWorld from './components/ChidrenElementsExample'
+// import HelloWorld from './components/ChidrenElementsExample'
+import HelloWorld from './components/LayoutExtensionsWithCyElementsExample'
 
 export default {
   name: 'app',

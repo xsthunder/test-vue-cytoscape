@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.3.2",
+    "cytoscape-cola": "^2.3.0",
     "vue": "^2.6.10",
     "vue-cytoscape": "^1.0.6"
   },
